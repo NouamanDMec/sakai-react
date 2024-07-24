@@ -65,7 +65,7 @@ const TimelineDemo = () => {
             <div className="grid">
                 <div className="col-12 md:col-6">
                     <div className="card">
-                        <h5>Left Align</h5>
+                        <h5>Left Align By Anouar and Nouaman </h5>
                         <Timeline value={customEvents} content={(item) => item.status} />
                     </div>
                 </div>
